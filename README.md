@@ -10,4 +10,13 @@
   git remote add origin git@github.com:lunapen/lunalearn.git
   git push -u origin master
 
+  https://github.com/settings/tokens
+  generate personal access token
+  public_repo
+
+  https://www.travis-ci.org/lunapen/lunalearn/settings
+  set GITHUB_TOKEN Environment Variables
+
+  yarn docs:build
+
   
