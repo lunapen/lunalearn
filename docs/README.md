@@ -3,7 +3,11 @@
 ## 目录
 
   1. [玥玥服务器](http://192.168.3.103:8080/)
-  2. [月月资料](http://192.168.3.103:8090/)
+  2. [玥玥资料](http://192.168.3.103:8090/)
+  3. [玥玥家主站](http://192.168.3.101)
+
+
+## 资料目录
   3. [停课不停学！这家好评如潮的英语网课给大家送福利了，4-12家长必看](https://mp.weixin.qq.com/s/Y0344AFlbVqsIZoWi_3NJQ)
   4. [西游记 | 单田芳经典在线收听_评书_喜马拉雅FM](https://www.ximalaya.com/xiangsheng/3196/)
   5. [义务教育教科书](http://bp.pep.com.cn/jc/ywjyjks/ywjygjkcjc/index.html?from=timeline&isappinstalled=0)
