@@ -18,7 +18,7 @@
   9. [千万别把7-14岁孩子的宝贵时间，浪费在没有深度的阅读上](https://mp.weixin.qq.com/s/RybhCmQ7KZSVSfNQa30jxQ)
   10. [深圳书城——深圳书城唯一官方网站](https://www.szbookmall.com/search?keyword=%E9%95%BF%E9%9D%92%E8%97%A4)
   11. [教育部推荐“小学生必读书目”，1-6年级精选书单~_语文](https://www.sohu.com/a/329082604_823141)
-  12. [学习资料汇总（持续更新）](https://www.sohu.com/a/197954657_99904014)
+  12. [学习资料汇总（持续更新）](https://mp.weixin.qq.com/s?__biz=MzI2MTIxOTUxMg==&mid=502914584&idx=1&sn=0fe186954ccee64d609de9d8883d9174&scene=19#wechat_redirect)
   13. [听名著丨少年版《三国演义》全集回顾](https://mp.weixin.qq.com/s/u2RkjOWJ90drA4Id2Y0jGg)
   14. [RAZ A级 Reading a-z 分级阅读在线收听-喜马拉雅FM](https://www.ximalaya.com/ertong/15759134/)
 
